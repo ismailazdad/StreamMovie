@@ -14,6 +14,7 @@ The React Torrent Movie Player is a web application that allows users to stream 
 - User-friendly interface for an enjoyable movie-watching experience.
 
 ## Demo
+use VPN 
 
 Check out the [demo](https://moviestrailerwatch.surge.sh/?tmdb_id=667538) to see the application in action!
 
