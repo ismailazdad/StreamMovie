@@ -46,7 +46,7 @@ Check out the [demo](https://moviestrailerwatch.surge.sh/?tmdb_id=667538) to see
 3. Open a web browser and access the application with a specific tmdb_id in the URL. For example:
 
    ```bash
-http://localhost:3000/?tmdb_id=667538
+   http://localhost:3000/?tmdb_id=667538
 
 4. Start streaming the movie using the WebTorrent player
 
