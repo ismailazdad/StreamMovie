@@ -41,14 +41,13 @@ Check out the [demo](https://moviestrailerwatch.surge.sh/?tmdb_id=667538) to see
    ```bash
    npm start
    
-2. Open a web browser and access the application at `http://localhost:3000`
 
-3. Open a web browser and access the application with a specific tmdb_id in the URL. For example:
+2. Open a web browser and access the application with a specific tmdb_id in the URL. For example:
 
    ```bash
    http://localhost:3000/?tmdb_id=667538
 
-4. Start streaming the movie using the WebTorrent player
+3. Start streaming the movie using the WebTorrent player
 
 
 ## Future Plans
