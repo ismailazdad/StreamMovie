@@ -8,7 +8,6 @@ The React Torrent Movie Player is a web application that allows users to stream 
 
 ## Features
 
-- Search and browse a vast library of movies using TMDb.
 - Obtain torrent magnet links from YTS.mx.
 - Stream movies directly from torrent sources.
 - User-friendly interface for an enjoyable movie-watching experience.
@@ -43,7 +42,14 @@ Check out the [demo](https://moviestrailerwatch.surge.sh/?tmdb_id=667538) to see
    npm start
    
 2. Open a web browser and access the application at `http://localhost:3000`
-3. Search for your favorite movies and start streaming them using the WebTorrent player.
+
+3. Open a web browser and access the application with a specific tmdb_id in the URL. For example:
+
+ ```bash
+http://localhost:3000/?tmdb_id=667538
+
+4. Start streaming the movie using the WebTorrent player
+
 
 ## Future Plans
 
