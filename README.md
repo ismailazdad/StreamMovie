@@ -5,6 +5,7 @@
 The React Torrent Movie Player is a web application that allows users to stream and watch torrent movies using the [The Movie Database (TMDb)](https://themoviedb.org) for movie information and [YTS.mx](https://yts.mx/api/) for obtaining the torrent magnet links. The application leverages the WebTorrent player to enable users to watch movies directly from torrents.
 
 **Note**: As of now, the WebTorrent player used in the application includes ads. However, the project owner plans to address this issue in the future.
+You can use [Brave browser](  https://brave.com/) to avoid ads.
 
 ## Features
 
